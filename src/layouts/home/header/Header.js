@@ -38,11 +38,6 @@ const Header = (props) => {
           <IconMenu width="20" height="20" />  
         </IconButton>  
 
-        <IconButton size="large" aria-label="show notifications" color="inherit">  
-          <Badge variant="dot" color="primary">  
-            <IconBellRinging size="21" stroke="1.5" />  
-          </Badge>  
-        </IconButton>  
 
         <Box flexGrow={1} />  
 
